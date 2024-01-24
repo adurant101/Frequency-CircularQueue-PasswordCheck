@@ -1,7 +1,7 @@
 # To Run This Repository
 Use python main.py
-The main file contains all unit tests and multithreading.
-Example Output:
+The main file contains all unit tests and multithreading. <br>
+Example Output: <br>
 ```
 python main.py
 ['asqwr1234@1', 'aF145#', '2w3E*', '2We3345']
