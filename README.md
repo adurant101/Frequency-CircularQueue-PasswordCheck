@@ -1,6 +1,6 @@
 # To Run This Repository
 Use python main.py
-The main file contains all unit tests and multithreading. <br>
+The main file contains all unit tests and multithreading. <br> <br>
 Example Output: <br>
 ```
 python main.py
@@ -134,12 +134,9 @@ no match: 2w3E*
 no match: 2We3345
 .['which is better python 2 or python 3']
 {'2': 1, '3': 1, 'better': 1, 'is': 1, 'or': 1, 'python': 2, 'which': 1}
-C:\Users\adura\OneDrive\Documents\coding\Frequency Circular Queue Password Check\main.py:48: ResourceWarning: unclosed file <_io.TextIOWrapper name='sub_folder/words.txt' mode='r+' encoding='cp1252'>
-  word_frequency("sub_folder/words.txt"))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
 .
 ----------------------------------------------------------------------
-Ran 6 tests in 0.005s
+Ran 6 tests in 0.006s
 
 OK
 ```
